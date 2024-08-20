@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "d47e",
+      "cityName": "Aleppo",
+      "country": "Syrian Arab Republic (the)",
+      "emoji": "🇸🇾",
+      "date": "2024-07-19T13:17:18.104Z",
+      "notes": "",
+      "position": {
+        "lat": "36.20286328288348",
+        "lng": "37.1934477033917"
+      }
+    },
+    {
+      "id": "c8da",
+      "cityName": "Idlib",
+      "country": "Syrian Arab Republic (the)",
+      "emoji": "🇸🇾",
+      "date": "2024-07-19T16:10:38.820Z",
+      "notes": "",
+      "position": {
+        "lat": "35.927917386695135",
+        "lng": "36.63988743794724"
+      }
+    },
+    {
+      "id": "f120",
+      "cityName": "‘Afrin",
+      "country": "Syrian Arab Republic (the)",
+      "emoji": "🇸🇾",
+      "date": "2024-07-24T10:36:31.931Z",
+      "notes": "",
+      "position": {
+        "lat": "36.51749028430456",
+        "lng": "36.88659546917466"
+      }
+    }
+  ]
+}
